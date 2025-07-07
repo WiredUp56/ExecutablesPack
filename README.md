@@ -36,4 +36,4 @@ You can also:
 
 🤝 Contributing
 
-  Ideas, suggestions, or improvements?Open an issue or submit a pull request!
+  Ideas, suggestions, or improvements? Open an issue or submit a pull request!
