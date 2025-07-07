@@ -1,6 +1,6 @@
 # ExecutablesPack
 
-  A collection of custom-built executable tools, utilities, and scripts for various everyday and niche tasks. This pack includes helpful programs for productivity, automation, security, and more — all bundled into one convenient toolkit.
+  A collection of custom-built executable tools, utilities, and scripts for various everyday funnys and niche tasks. This pack includes helpful and silly programs for productivity, automation, fakes (like fake viruses), pranks, and more — all bundled into one convenient ZIP.
 
 🖥️ Requirements
 
